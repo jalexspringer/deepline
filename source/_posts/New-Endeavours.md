@@ -1,6 +1,6 @@
 ---
 title: New Endeavours
-subtitle: March 2020
+subtitle: 2020.03.18
 date: 2020-03-14 08:13:22
 tags:
 - about

@@ -1,6 +1,6 @@
 ---
 title: Pokhara
-subtitle: February 2019
+subtitle: 2019.02.15
 date: 2019-02-15 08:13:27
 tags:
 - nepal

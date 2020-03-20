@@ -1,6 +1,6 @@
 ---
 title: Macedonia
-subtitle: August 2019
+subtitle: 2019.08.08
 date: 2019-08-08 14:52:43
 tags:
 - khrusevo

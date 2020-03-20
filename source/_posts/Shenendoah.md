@@ -1,6 +1,6 @@
 ---
 title: Shenendoah
-subtitle: July 2019
+subtitle: 2019.07.15
 date: 2019-07-15 22:17:54
 tags:
 - usa

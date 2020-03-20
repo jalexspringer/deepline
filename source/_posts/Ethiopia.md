@@ -1,6 +1,6 @@
 ---
 title: Ethiopia
-subtitle: February 2020
+subtitle: 2020.02.01
 date: 2020-02-01 13:26:35
 tags:
 - ethiopia

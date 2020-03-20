@@ -1,6 +1,6 @@
 ---
 title: 'Santa Barbara - Beginnings'
-subtitle: July 2018
+subtitle: 2018.07.01
 date: 2018-07-01 14:31:45
 tags:
 cover_index: https://deeplineproject.com/2018/07/01/Santa-Barbara/ridge-soaring_cover.jpg

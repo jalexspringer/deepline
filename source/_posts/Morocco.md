@@ -1,6 +1,6 @@
 ---
 title: Morocco
-subtitle: December 2019
+subtitle: 2019.12.30
 date: 2019-12-30 13:04:10
 tags:
 - morocco
