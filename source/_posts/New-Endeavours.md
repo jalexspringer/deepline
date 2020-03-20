@@ -39,7 +39,9 @@ This kind of discovery and travel is what I love about flying and I believe that
 6. I get to the site, sometimes meet some locals (or lots of locals - looking at you Valle/Pokhara)
 
 <br>
+
 ![](https://deeplineproject.com/2020/03/14/New-Endeavours/meteoScreen.jpg?format=auto&width=2000)
+
 <center>So many ways to look at the world!</center>
 <br>
 

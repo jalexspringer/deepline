@@ -84,7 +84,7 @@
 
     <!--Fontawesome-->
     <script src="https://kit.fontawesome.com/7421e320e6.js" crossorigin="anonymous"></script>
-
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <meta name="generator" content="Hexo 4.2.0"></head>
 
 
@@ -171,12 +171,12 @@
             <ul class="archive-list">
                 
                     <li>
-    <a href="/2019/03/02/Ager/">Ager - March 2019</a>
+    <a href="/2020/12/31/2020-Flying-Goals/">Flying Goals - 2020</a>
 </li>
 
                 
                     <li>
-    <a href="/2020/12/31/2020-Flying-Goals/">Flying Goals - 2020</a>
+    <a href="/2019/03/02/Ager/">Ager - March 2019</a>
 </li>
 
                 
@@ -186,27 +186,17 @@
 
                 
                     <li>
-    <a href="/2020/02/01/Ethiopia/">Ethiopia - February 2020</a>
-</li>
-
-                
-                    <li>
     <a href="/2019/09/05/Lake-District/">Lake District - September 2019</a>
 </li>
 
                 
                     <li>
-    <a href="/2020/03/20/Greolieres-Pre-Flight/">Gréolières Pre-Flight - March 2020</a>
+    <a href="/2020/02/01/Ethiopia/">Ethiopia - February 2020</a>
 </li>
 
                 
                     <li>
     <a href="/2019/08/08/Macedonia/">Macedonia - August 2019</a>
-</li>
-
-                
-                    <li>
-    <a href="/2020/03/14/New-Endeavours/">New Endeavours - March 2020</a>
 </li>
 
                 
@@ -221,6 +211,16 @@
 
                 
                     <li>
+    <a href="/2020/03/14/New-Endeavours/">New Endeavours - March 2020</a>
+</li>
+
+                
+                    <li>
+    <a href="/2018/07/01/Santa-Barbara/">Santa Barbara - Beginnings - July 2018</a>
+</li>
+
+                
+                    <li>
     <a href="/2019/07/15/Shenendoah/">Shenendoah - July 2019</a>
 </li>
 
@@ -231,7 +231,7 @@
 
                 
                     <li>
-    <a href="/2018/07/01/Santa-Barbara/">Santa Barbara - Beginnings - July 2018</a>
+    <a href="/2020/03/20/Greolieres-Pre-Flight/">Gréolières Pre-Flight - March 2020</a>
 </li>
 
                 
@@ -270,6 +270,19 @@
         dsq.src = '//' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }());
+</script>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
 </script>
 
 

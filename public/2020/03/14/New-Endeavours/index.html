@@ -88,7 +88,7 @@
 
     <!--Fontawesome-->
     <script src="https://kit.fontawesome.com/7421e320e6.js" crossorigin="anonymous"></script>
-
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <meta name="generator" content="Hexo 4.2.0"></head>
 
 
@@ -218,7 +218,8 @@
 <li>I get to the site, sometimes meet some locals (or lots of locals - looking at you Valle/Pokhara)</li>
 </ol>
 <br>
-![](https://deeplineproject.com/2020/03/14/New-Endeavours/meteoScreen.jpg?format=auto&width=2000)
+
+<p><img src="https://deeplineproject.com/2020/03/14/New-Endeavours/meteoScreen.jpg?format=auto&width=2000" alt=""></p>
 <center>So many ways to look at the world!</center>
 <br>
 
@@ -291,6 +292,19 @@
         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }());
+</script>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
 </script>
 
 
