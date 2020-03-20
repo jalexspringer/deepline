@@ -5,5 +5,5 @@
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
-    Content-Security-Policy = "default-src 'none'; font-src 'https://fonts.googleapis.com'; img-src 'self' https://deepline.gumlet.com; object-src 'none'; script-src 'self' https://cdn.gumlet.com https://www.googletagmanager.com; style-src 'self'"
+    Content-Security-Policy = "default-src 'self';"
     X-Content-Type-Options = "nosniff"
