@@ -9,12 +9,12 @@
   bundle = true
   minify = true
 
-[[headers]]
-  # Define which paths this specific [[headers]] block will cover.
-  for = "/*"
+# [[headers]]
+#   # Define which paths this specific [[headers]] block will cover.
+#   for = "/*"
 
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    X-Content-Type-Options = "nosniff"
-    Content-Security-Policy = "frame-ancestors 'none';"
+#   [headers.values]
+#     X-Frame-Options = "DENY"
+#     X-XSS-Protection = "1; mode=block"
+#     X-Content-Type-Options = "nosniff"
+#     Content-Security-Policy = "frame-ancestors 'none';"
