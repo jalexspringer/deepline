@@ -30,6 +30,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - "*admin/*"
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -111,3 +112,4 @@ postmap:
   map_page_stub: 'mapofposts'
   map_page_title: 'Map of posts'
   google_maps_api_key: 'AIzaSyDoqsypUrPO9IOSrHfXi3oKS2OZsO66jYc'
+
