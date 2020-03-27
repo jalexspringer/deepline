@@ -21,7 +21,10 @@ The land here is rugged and tough and gorgeous and thrilling. The flying is remo
 
 But I can't claim to be the first explorer here. My huge thanks to [Niki](https://www.skynomad.com/) who has been flying here for years, slowly laying the foundation for an incredible paragliding destination, and offered his experience and wisdom, and to [Yassen](https://www.instagram.com/yassen_savov/) - an incredible pilot I am happy to be able to call both a mentor and a friend. I hit every goal I set for myself this trip and I couldn't have done it without these two to guide me and the rest of the crew to fly with.
 
+<center><iframe src="https://ayvri.com/embed/g0jgg3yejo/ck8a3dqh90001246c8a4g381e" allowfullscreen height="600" width="800"></iframe>
+</center>
+
+![](https://deeplineproject.com/2020/02/01/Ethiopia/swift.jpg?format=auto&width=2000)
 ![](https://deeplineproject.com/2020/02/01/Ethiopia/castle2.jpg?format=auto&width=2000)
 ![](https://deeplineproject.com/2020/02/01/Ethiopia/goat.jpg?format=auto&width=2000)
-![](https://deeplineproject.com/2020/02/01/Ethiopia/swift.jpg?format=auto&width=2000)
 ![](https://deeplineproject.com/2020/02/01/Ethiopia/valley.jpg?format=auto&width=2000)
