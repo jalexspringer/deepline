@@ -19,7 +19,7 @@ The jewel in the crown we save for last. Lalibella, city of stone churches and p
 
 The land here is rugged and tough and gorgeous and thrilling. The flying is remote and every launch immediately puts you in danger of a **long** walk out from the lowlands. But the chance of discovery and the untamed hidden behind each ridge offers something rare and unique, something that is at the centre of why I fly - a chance to really explore.
 
-But I can't claim to be the first explorer here. My huge thanks to [Niki](https://www.skynomad.com/) who has been flying here for years, slowly laying the foundation for an incredible paragliding destination, and offered his experience and wisdom, and to [Yassen](https://www.instagram.com/yassen_savov/) - an incredible pilot I am happy to be able to call both a mentor and a friend. I hit every goal I set for myself this trip and I couldn't have done it without these two to guide me and the rest of the crew to fly with.
+But I can't claim to be the first explorer here. My huge thanks to [Niki Yotov](https://www.skynomad.com/) who has been flying here for years, slowly laying the foundation for an incredible paragliding destination, and offered his experience and wisdom, and to [Yassen Savov](https://www.instagram.com/yassen_savov/) - an incredible pilot I am happy to be able to call both a mentor and a friend. I hit every goal I set for myself this trip and I couldn't have done it without these two to guide me and the rest of the crew to fly with.
 
 <center><iframe src="https://ayvri.com/embed/g0jgg3yejo/ck8a3dqh90001246c8a4g381e" allowfullscreen height="600" width="800"></iframe>
 </center>
