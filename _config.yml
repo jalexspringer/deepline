@@ -100,8 +100,8 @@ theme: alex
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:jalexspringer/deeplineproject
-  branch: gh-pages
+  repo: git@github.com:jalexspringer/deepline
+  branch: blog
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
   name: jalexspringer
   email: alexspringer@pm.me

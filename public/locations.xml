@@ -3,24 +3,8 @@
   
   
   <location
-    url="deeplineproject.com/2020/03/20/Greolieres-Discovery/"
-    lastmod="2020-03-20T23:04:15.127Z"
-    lat="43.8005"
-    lng="6.9556"
-    title="Gréolières Discovery">
-  </location>
-  
-  <location
-    url="deeplineproject.com/2020/03/20/Greolieres-Pre-Flight/"
-    lastmod="2020-03-20T22:50:26.322Z"
-    lat="43.8005"
-    lng="6.9556"
-    title="Gréolières Pre-Flight">
-  </location>
-  
-  <location
     url="deeplineproject.com/2020/12/31/2020-Flying-Goals/"
-    lastmod="2020-03-20T21:28:01.687Z"
+    lastmod="2020-04-03T09:59:00.750Z"
     lat="43.693766"
     lng="6.989347"
     title="Flying Goals">
@@ -28,90 +12,106 @@
   
   <location
     url="deeplineproject.com/2019/03/02/Ager/"
-    lastmod="2020-03-20T22:49:27.862Z"
+    lastmod="2020-04-03T09:59:00.750Z"
     lat="42.0455"
     lng="0.748"
     title="Ager">
   </location>
   
   <location
-    url="deeplineproject.com/2020/02/01/Ethiopia/"
-    lastmod="2020-03-20T22:49:59.170Z"
-    lat="12.045322"
-    lng="39.061997"
-    title="Ethiopia">
-  </location>
-  
-  <location
     url="deeplineproject.com/2019/09/13/Annecy/"
-    lastmod="2020-03-20T22:49:41.502Z"
+    lastmod="2020-04-03T09:59:00.750Z"
     lat="45.799212"
     lng="6.238526"
     title="Annecy">
   </location>
   
   <location
+    url="deeplineproject.com/2020/02/01/Ethiopia/"
+    lastmod="2020-04-03T09:59:00.750Z"
+    lat="12.045322"
+    lng="39.061997"
+    title="Ethiopia">
+  </location>
+  
+  <location
+    url="deeplineproject.com/2020/03/20/Greolieres-Discovery/"
+    lastmod="2020-04-03T09:59:00.750Z"
+    lat="43.8005"
+    lng="6.9556"
+    title="Gréolières Discovery">
+  </location>
+  
+  <location
     url="deeplineproject.com/2019/09/05/Lake-District/"
-    lastmod="2020-03-20T22:50:41.538Z"
+    lastmod="2020-04-03T09:59:00.750Z"
     lat="54.607654"
     lng="-2.825436"
     title="Lake District">
   </location>
   
   <location
-    url="deeplineproject.com/2019/08/08/Macedonia/"
-    lastmod="2020-03-20T22:51:14.215Z"
-    lat="41.362097"
-    lng="21.266922"
-    title="Macedonia">
+    url="deeplineproject.com/2020/03/20/Greolieres-Pre-Flight/"
+    lastmod="2020-04-03T09:59:00.750Z"
+    lat="43.8005"
+    lng="6.9556"
+    title="Gréolières Pre-Flight">
   </location>
   
   <location
     url="deeplineproject.com/2019/12/30/Morocco/"
-    lastmod="2020-03-20T22:51:23.791Z"
+    lastmod="2020-04-03T09:59:00.750Z"
     lat="31.428967"
     lng="-6.969669"
     title="Morocco">
   </location>
   
   <location
-    url="deeplineproject.com/2019/02/15/Pokhara/"
-    lastmod="2020-03-20T22:51:32.779Z"
-    lat="28.2436"
-    lng="83.9515"
-    title="Pokhara">
-  </location>
-  
-  <location
-    url="deeplineproject.com/2018/12/30/Valle/"
-    lastmod="2020-03-20T22:52:05.271Z"
-    lat="19.1256"
-    lng="-100.054"
-    title="Valle">
-  </location>
-  
-  <location
-    url="deeplineproject.com/2018/07/01/Santa-Barbara/"
-    lastmod="2020-03-20T22:51:41.787Z"
-    lat="34.470148"
-    lng="-119.729265"
-    title="Santa Barbara - Beginnings">
+    url="deeplineproject.com/2019/08/08/Macedonia/"
+    lastmod="2020-04-03T09:59:00.750Z"
+    lat="41.362097"
+    lng="21.266922"
+    title="Macedonia">
   </location>
   
   <location
     url="deeplineproject.com/2020/03/14/New-Endeavours/"
-    lastmod="2020-03-20T22:49:08.990Z"
+    lastmod="2020-04-03T09:59:00.750Z"
     lat="43.8005"
     lng="6.9556"
     title="New Endeavours">
   </location>
   
   <location
+    url="deeplineproject.com/2018/07/01/Santa-Barbara/"
+    lastmod="2020-04-03T09:59:00.750Z"
+    lat="34.470148"
+    lng="-119.729265"
+    title="Santa Barbara - Beginnings">
+  </location>
+  
+  <location
+    url="deeplineproject.com/2019/02/15/Pokhara/"
+    lastmod="2020-04-03T09:59:00.750Z"
+    lat="28.2436"
+    lng="83.9515"
+    title="Pokhara">
+  </location>
+  
+  <location
     url="deeplineproject.com/2019/07/15/Shenendoah/"
-    lastmod="2020-03-20T22:51:58.771Z"
+    lastmod="2020-04-03T09:59:00.750Z"
     lat="38.897474"
     lng="-78.486128"
     title="Shenendoah">
+  </location>
+  
+  <location
+    url="deeplineproject.com/2018/12/30/Valle/"
+    lastmod="2020-04-03T09:59:00.750Z"
+    lat="19.1256"
+    lng="-100.054"
+    title="Valle">
   </location>
   
 </locations>
