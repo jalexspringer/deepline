@@ -17,6 +17,6 @@ These aren't tours that happen ten times a summer for large groups - we create d
 # Upcoming Adventures
 ## Alpine Hike and Fly - Austria to Monaco
 #### Length: 2 Weeks
-Tandem flying, hiking, camping the route of the 2019 Redbull X-Alps Hike and FlyCompetition with US Paragliding Champion and X-Alps alumni. Fully supported in the same way an X-Alps athlete would be, and following the same rules. Requires a high level of physical fitness (this isn't a put your feet up vacation). Start in Austria and end up with a Mediterranean Sea landing next to the yachts of Monaco, traveling the entirety of the Alps in air and on land in two weeks time.
+Tandem flying, hiking, camping the route of the 2019 Redbull X-Alps Hike and FlyCompetition with US Paragliding Champion and X-Alps alumni. Fully supported in the same way an X-Alps athlete would be, and following the same rules. Requires a high level of physical fitness (this isn't a put your feet up vacation). Start in Austria and end up with a Mediterranean Sea landing next to the yachts of Monaco, traveling the entirety of the Alps in the air and on foot in two weeks time.
 <br>
 ![](https://deeplineproject.com/index/smoke.jpeg?format=auto&width=2000&mode=crop&crop=center&ar=3.5:1)
