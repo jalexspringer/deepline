@@ -1,10 +1,10 @@
 # Header
 menu:
-  Home: /
-  Live Tracking: /Track
+  Log: /
+  Tracking: /Track
   Posts by Name: /archives
   Posts by Location: /mapofposts
-  Meteo: /tags/meteo
+  # Meteo: /tags/meteo
   Ayvri: "https://ayvri.com/profile/g0jgg3yejo"
   XContest: "https://www.xcontest.org/world/en/pilots/detail:jalexs"
   Leonardo: "https://www.paraglidingforum.com/leonardo/pilot/0_74191"
