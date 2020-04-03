@@ -7,7 +7,7 @@ cover_detail: https://deepline.gumlet.com/index/spike.jpg?format=auto&width=1500
 Explore a new way of traveling. We don't offer package tours or large groups - we connect you with the experience of the elite. So if you are at the top of your game and want to see the world from the top of a different one - you are in the right place.
 
 # World Class Athletes
-Team up with the professionals - individuals who have spent their lives pushing the boundaries of what is possible on land, in the air, and on the sea. These athletes are at the top of their sport, winning awards and defining the next generation of adventure.
+Team up with the professionals - individuals who have spent their lives pushing the boundaries of what is possible on land, in the air, and on the sea. These athletes are at the leaders in their sports, winning awards and defining the next generation of adventure.
 
 # Unique Experiences
 These aren't tours that happen ten times a summer for large groups - we create diverse scenarios borrowing from the toughest races, adventures, and challenges on the planet.
