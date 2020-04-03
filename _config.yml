@@ -101,7 +101,7 @@ theme: alex
 deploy:
   type: git
   repo: git@github.com:jalexspringer/deepline
-  branch: blog
+  branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
   name: jalexspringer
   email: alexspringer@pm.me
