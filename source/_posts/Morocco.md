@@ -9,6 +9,8 @@ cover_detail: https://deepline.gumlet.com/2019/12/30/Morocco/sahara.jpg
 location: [31.428967, -6.969669]
 ---
 
+![](https://deeplineproject.com/2019/12/30/Morocco/mor_ridge.jpg?format=auto&width=2000)
+![](https://deeplineproject.com/2019/12/30/Morocco/dune_soar.jpg?format=auto&width=2000)
 ![](https://deeplineproject.com/2019/12/30/Morocco/nolaunch.jpg?format=auto&width=2000)
 ![](https://deeplineproject.com/2019/12/30/Morocco/nigel.jpg?format=auto&width=2000)
 ![](https://deeplineproject.com/2019/12/30/Morocco/advancecamel.jpg?format=auto&width=2000)
