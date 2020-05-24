@@ -3,4 +3,4 @@
 # Deepline Project Site Source
 Powered by hexo
 
-Testing all the projects.
+Check out the result at deeplineproject.com
