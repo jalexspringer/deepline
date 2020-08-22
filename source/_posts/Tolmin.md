@@ -15,6 +15,8 @@ Really interesting terrain and I learned a lot about patience, as well as my new
 
 From there I headed off to Lake Garda - cable car to launch is a luxury, as is a launch the size of 5 football pitches! Little hike and fly to the peak of Mt Baldo, top land for a quick bite, launch for a longer flight and a little exploring up and down the range. Again a very low cloud base so not much XC potential, but a beautiful way to spend a couple of days hanging out at the lake.
 
+Finally on to Venice for a deserted St. Marks Square!
+
 <hl>
 <br>
 
