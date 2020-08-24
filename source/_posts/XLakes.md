@@ -1,9 +1,11 @@
 ---
-title: Slovenia and Lake Garda
-subtitle: 2020.07.25
-date: 2020-07-25 13:26:35
+title: XLakes 2020
+subtitle: 2020.08.15
+date: 2020-08-15 13:26:35
 tags:
-- slovenia
+- xlakes
+- comp
+- lake district
 cover_index: https://deeplineproject.com/2020/07/25/Tolmin-Garda/salamander.jpg
 cover_detail: https://deepline.gumlet.com/2020/07/25/Tolmin-Garda/night_church.jpg
 location: [54.5819802, -3.1660178]
