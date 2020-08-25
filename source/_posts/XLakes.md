@@ -28,16 +28,19 @@ I swung to the west to start with, thinking that I had plenty of daylight to bag
 
 And then the wind turned. Cross wind turned into head wind, and I radically underestimated the amount of boggy, mossy, and generally wet climbing required to execute my grand vision.
 
+![](https://deepline.gumlet.com/2020/08/XLakes/peaks.jpeg)
+
+
 ## What Sea Breeze?
 I still don’t really understand. Don’t get me wrong - I get that the sea air blows inland and it is cold and strong and kills thermals. I even sort of get that the Lake District inhales these salty gusts from some slightly nebulous centre point in the main ridge. And from far, far upwind I watched a convergence set up as a result. So my half-baked theory that a convergence is a fairy tale pilots talk about over beers is pretty well destroyed.
 
-But damned if I understand what that means for each local little valley, ridge, and wrinkle. And that kicked my ass all through day 1.
+But damned if I understand what that means for each local little valley, ridge, and wrinkle. All of which kicked my ass through day 1.
 
 The flight track below tells the gory tale with all of its clambering and slowly increasing number of stops to commune with the local sheep. Two decent flights and a couple of desperate sledders later I found the ground for the last time of the day and packed up my glider, resigned to walking in the valley and finding a pub for an exhausted beer and an assessing of sleeping options.
 
 20 minutes after packing up I watched the most beautiful cloud street appear above me pointing directly off to the east. Had I just launched my last too early? I’m convinced that had I waited 30 minutes longer on that shaded launch I’d have been in the air for an hour at least - steadily crossing valley after valley, top landing, sleeping, and waking in just the right place the next day. I’ll never know if I am right or wrong about that.
 
-So instead I took the consolation of a lamb pie and a couple of recovery pints at a friendly little pub. Life’s tough.
+So instead I took the consolation of a lamb pie and a couple of recovery pints at a friendly little pub. It's hard out there for a pilot.
 
 ## Day 2
 With no legs left to speak of and a night camping by the lake I was moderately ready for one last big climb and a soaring flight home before the wind got too gnarly.
@@ -62,5 +65,4 @@ Finally - I understand mud much better than I did before. Nearly getting sucked 
 
 Thanks to Jocky Sanderson, his wonderful family and the UK Air Sports and Flight Park team for feeding, encouraging, and sending us all off into the wilderness with trackers that definitely worked most of the time. I had a great time and can’t wait to do it again with a modicum more intelligence and knowledge next year!
 
-![](https://deepline.gumlet.com/2020/08/XLakes/peaks.jpeg)
 ![](https://deepline.gumlet.com/2020/08/XLakes/river.jpeg)
