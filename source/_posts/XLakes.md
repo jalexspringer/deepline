@@ -6,8 +6,8 @@ tags:
 - xlakes
 - comp
 - lake district
-cover_index: https://deeplineproject.com/2020/07/25/Tolmin-Garda/salamander.jpg
-cover_detail: https://deepline.gumlet.com/2020/07/25/Tolmin-Garda/night_church.jpg
+cover_index: https://deeplineproject.com/2020/08/XLakes/xlakes.jpg
+cover_detail: https://deepline.gumlet.com/2020/08/XLakes/campinglake.jpg
 location: [54.5819802, -3.1660178]
 ---
 # Over Hill and Bog
@@ -61,3 +61,6 @@ I also once again fell in love with my glider. My first EN-D, my first two-liner
 Finally - I understand mud much better than I did before. Nearly getting sucked into a 2 metre diameter circle of wobbly, mossy, mucky bog will do it to you. I don’t think I’ve ever watched the ground undulate under my step before outside of a trampoline. Especially not on the top of a peak... isn’t the water supposed to run down the hill at some point?
 
 Thanks to Jocky Sanderson, his wonderful family and the UK Air Sports and Flight Park team for feeding, encouraging, and sending us all off into the wilderness with trackers that definitely worked most of the time. I had a great time and can’t wait to do it again with a modicum more intelligence and knowledge next year!
+
+![](https://deepline.gumlet.com/2020/08/XLakes/peaks.jpg)
+![](https://deepline.gumlet.com/2020/08/XLakes/river.jpg)
