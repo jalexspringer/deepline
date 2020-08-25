@@ -6,10 +6,10 @@ tags:
 - xlakes
 - comp
 - lake district
-cover_index: https://deeplineproject.com/2020/08/XLakes/xlakes.jpg
-cover_detail: https://deepline.gumlet.com/2020/08/XLakes/campinglake.jpg
-location: [54.5819802, -3.1660178]
+cover_index: https://deeplineproject.com/2020/08/XLakes/xlakes.jpeg
+cover_detail: https://deepline.gumlet.com/2020/08/XLakes/campinglake.jpeg
 ---
+
 # Over Hill and Bog
 With a little jog and a quick transition to walking (and a bit of trudging) we set off on the XLakes 2020 from the Flight Park in Braithwaite, Lake District, Cumbria. Into a landscape of 140+ peaks jutting off the side of northern England surrounded on ~2.5 sides by water and subject to more rain in year than the Sahara will see in decades and regular gale-force winds. Centuries even (non-fact checked statement).
 
@@ -62,5 +62,5 @@ Finally - I understand mud much better than I did before. Nearly getting sucked 
 
 Thanks to Jocky Sanderson, his wonderful family and the UK Air Sports and Flight Park team for feeding, encouraging, and sending us all off into the wilderness with trackers that definitely worked most of the time. I had a great time and can’t wait to do it again with a modicum more intelligence and knowledge next year!
 
-![](https://deepline.gumlet.com/2020/08/XLakes/peaks.jpg)
-![](https://deepline.gumlet.com/2020/08/XLakes/river.jpg)
+![](https://deepline.gumlet.com/2020/08/XLakes/peaks.jpeg)
+![](https://deepline.gumlet.com/2020/08/XLakes/river.jpeg)
