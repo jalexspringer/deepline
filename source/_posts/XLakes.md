@@ -15,7 +15,7 @@ With a little jog and a quick transition to walking (and a bit of trudging) we s
 
 But I’m spry! And on a hot ship glider with extra get up and go! Hills and winds can’t scare me! And a circuit around the entire Lake District and all the peaks is only like 200-300km. That’s barely even two flights, right?
 
-![Many palms to the face - Stephen Colbert](http://gph.is/1ggFnMg)
+![Many palms to the face - Stephen Colbert](https://media.giphy.com/media/GfAD7Bl016Gfm/giphy.gif)
 
 
 ## But Why!?
